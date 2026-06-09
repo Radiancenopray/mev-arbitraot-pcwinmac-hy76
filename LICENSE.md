@@ -1,4 +1,4 @@
-# 
+# Ligero MEV arbitrage bot complementos para Mac OS | Principal MEV arbitrage bot complementos para PC Windows. Con fuentes en tiempo real y detección de rug pull — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
